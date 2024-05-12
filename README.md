@@ -1,7 +1,7 @@
 # Mini Birthday App
 Simple practice project using ReactJS & Vite
 
-Live Website - https://theblaisecode.github.io/Digital-Business-Card-Scrimba/
+Live Website - https://theblaisecode.github.io/React-Birthday-App
 
 <br/>
 
